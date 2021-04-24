@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thisisjv
+- 👋 Hi, I’m Janak Verma
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning Docker, K8s, Ansible, Terraform and DevOps relates technologies
 - 📫 How to reach me : janak.verma@alyssum.global
